@@ -1,0 +1,15 @@
+{
+  "name": "16-enqueue",
+  "version": "1.0.0",
+  "description": "Create a function that accepts a queue and an \"add\" as it's input. Your function should enqueue the provided value. The length property on your queue should also be updated to reflect the addition. ```sh // given the following:",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
